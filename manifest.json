@@ -1,0 +1,18 @@
+{
+  "title": "C208B EX Scientific Improvement MOD",
+  "manufacturer": "Cessna",
+  "creator": "pablogrb",
+  "package_version": "0.1.0",
+  "minimum_game_version": "0.0.0",
+  "builder": "Microsoft Flight Simulator 2024",
+  "package_order_hint": "SIMOBJECTS_PATCH",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "dependencies": [],
+  "content_type": "MISC",
+  "total_package_size": "00000000000000005057"
+}
