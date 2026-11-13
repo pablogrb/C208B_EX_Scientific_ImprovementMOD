@@ -1,19 +1,69 @@
 {
-  "content": [
-    {
-      "path": "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/config/flight_model.cfg",
-      "size": 81,
-      "date": 134385355182441373
-    },
-    {
-      "path": "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/navigation_graph/navigation_graph_passenger.cfg",
-      "size": 3580,
-      "date": 134385333940901459
-    },
-    {
-      "path": "SimObjects/Airplanes/asobo_c208b/presets/asobo/c208b_scientific/config/flight_model.cfg",
-      "size": 1396,
-      "date": 134385355182441373
-    }
-  ]
+    "content":  [
+                    {
+                        "path":  "html_ui/efb_ui/efb_apps/ScientificEquipment/ScientificEquipment.css",
+                        "size":  720,
+                        "date":  134390523003728261
+                    },
+                    {
+                        "path":  "html_ui/efb_ui/efb_apps/ScientificEquipment/ScientificEquipment.js",
+                        "size":  129065,
+                        "date":  134390537563117627
+                    },
+                    {
+                        "path":  "html_ui/efb_ui/efb_apps/ScientificEquipment/ScientificEquipment.svg",
+                        "size":  312,
+                        "date":  134390523004317371
+                    },
+                    {
+                        "path":  "html_ui/efb_ui/efb_apps/ScientificEquipment/THIRD-PARTY-NOTICES.txt",
+                        "size":  1684,
+                        "date":  134390527865071148
+                    },
+                    {
+                        "path":  "html_ui/Pages/VCockpit/Instruments/C208Scientific/Controller.html",
+                        "size":  277,
+                        "date":  134390523000665878
+                    },
+                    {
+                        "path":  "html_ui/Pages/VCockpit/Instruments/C208Scientific/Controller.js",
+                        "size":  8802,
+                        "date":  134390537563196793
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/config/flight_model.cfg",
+                        "size":  81,
+                        "date":  134385355182441373
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/config/systems.cfg",
+                        "size":  1228,
+                        "date":  134390545473930590
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/navigation_graph/navigation_graph_passenger.cfg",
+                        "size":  3580,
+                        "date":  134385333940901459
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/panel/panel.cfg",
+                        "size":  127,
+                        "date":  134390523000028987
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/panel/panel.xml",
+                        "size":  196,
+                        "date":  134390524539252821
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/presets/asobo/c208b_scientific/config/flight_model.cfg",
+                        "size":  1396,
+                        "date":  134385355182441373
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/presets/asobo/c208b_scientific/panel/panel.xml",
+                        "size":  53,
+                        "date":  134390524539849711
+                    }
+                ]
 }

@@ -1,0 +1,6 @@
+<PlaneHTMLConfig>
+    <Instrument id="C208ScientificController">
+        <Name>C208ScientificController</Name>
+        <AlwaysUpdate>true</AlwaysUpdate>
+    </Instrument>
+</PlaneHTMLConfig>
