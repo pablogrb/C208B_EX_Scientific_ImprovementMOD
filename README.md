@@ -21,6 +21,10 @@ To uninstall, close the simulator and remove the `C208B_EX_Scientific_Improvemen
 
 Select the scientific observations variant and use the EFB loading controls to add or remove up to two passengers. They appear in the existing specialist seats and contribute to aircraft payload weight.
 
+The first scientific electrical increment adds separate LiDAR and camera circuits, each including a stabilized mount, on a protected scientific-equipment bus. Control and inspect them through the simulator electrical debug window for now. EFB equipment controls and crew restrictions are not implemented yet.
+
 ## Technical documentation
 
 See [Mission specialist implementation](docs/mission-specialists.md) for configuration details and verification notes.
+
+See [Scientific electrical system](docs/scientific-electrical.md) for loads, protection, limitations and the incremental simulator test procedure.

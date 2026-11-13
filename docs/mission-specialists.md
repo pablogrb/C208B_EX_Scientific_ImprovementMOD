@@ -20,7 +20,7 @@ The preset also retains the stock `OBJ_EA1_PitotFLAG.5` definition for the engin
 
 ## Package and verification
 
-The [manifest](../manifest.json) identifies the package as a `SIMOBJECTS_PATCH`. The [layout](../layout.json) indexes the three configuration files with sizes and timestamps. Update the layout and package size when changing package content.
+The [manifest](../manifest.json) identifies the package as a `SIMOBJECTS_PATCH`. The [layout](../layout.json) indexes the simulator configuration files with sizes and timestamps. Update the layout and package size when changing package content.
 
 In simulator testing, the EFB exposed controls for both specialists, their models appeared in the intended seats, and saved flight payload values reflected changes. Removing one 170 lb passenger reduced the displayed aircraft weight by 170 lb. The debug station-weight list did not reflect the passenger changes; its semantics have not been established.
 

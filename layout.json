@@ -1,19 +1,24 @@
 {
-  "content": [
-    {
-      "path": "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/config/flight_model.cfg",
-      "size": 81,
-      "date": 134385355182441373
-    },
-    {
-      "path": "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/navigation_graph/navigation_graph_passenger.cfg",
-      "size": 3580,
-      "date": 134385333940901459
-    },
-    {
-      "path": "SimObjects/Airplanes/asobo_c208b/presets/asobo/c208b_scientific/config/flight_model.cfg",
-      "size": 1396,
-      "date": 134385355182441373
-    }
-  ]
+    "content":  [
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/config/flight_model.cfg",
+                        "size":  81,
+                        "date":  134385355182441373
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/config/systems.cfg",
+                        "size":  1182,
+                        "date":  134390725024739481
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/attachments/asobo/function_interior_cabin_scientific/navigation_graph/navigation_graph_passenger.cfg",
+                        "size":  3580,
+                        "date":  134385333940901459
+                    },
+                    {
+                        "path":  "SimObjects/Airplanes/asobo_c208b/presets/asobo/c208b_scientific/config/flight_model.cfg",
+                        "size":  1396,
+                        "date":  134385355182441373
+                    }
+                ]
 }
